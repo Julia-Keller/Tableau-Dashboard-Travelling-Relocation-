@@ -21,10 +21,10 @@ Snapshot
 
 ## Skills & Tools:
 
-Data Collection: Web Scraping, Open APIs, Kaggle Datasets
-Data Cleaning & Processing: Python (Pandas, NumPy)
-Data Visualization: Tableau, Microsoft AI Designer
-Project Management: Jupyter Notebooks, GitHub
+- Data Collection: Web Scraping, Open APIs, Kaggle Datasets
+- Data Cleaning & Processing: Python (Pandas, NumPy)
+- Data Visualization: Tableau, Microsoft AI Designer
+- Project Management: Jupyter Notebooks, GitHub
 
 ## Steps of the Project:
 
