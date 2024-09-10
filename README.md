@@ -13,7 +13,8 @@ The project includes two interactive Tableau dashboards in one story:
 
 1. Travelers Dashboard 🌍: provides insights to help travelers plan their trips more effectively by selecting the perfect European travel destination based on various criteria such as weather condotions, accomodation prices, safety indices, etc.
 
-Snapshot 
+[Snapshot](![image](https://github.com/user-attachments/assets/a12e1077-d624-4097-8bea-1376e11b0843)
+) 
    
 2. Relocants Dashboard 🏡: tailored for those considering relocation within Europe. The dashboard provides key information on various parameters such as utilities and groceries prices, prices to rent/buy an apartment, cost of living indices and so on which could help users choose the ideal location to live and work.
 
