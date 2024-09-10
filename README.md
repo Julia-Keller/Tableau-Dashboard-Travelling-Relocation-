@@ -1,4 +1,5 @@
-# Data Science Project: NextStop Europe: Discover Your Ideal Travel Destination or New Home
+# Data Science Project
+# NextStop Europe: Discover Your Ideal Travel Destination or New Home
 
 ## Project overview and objectives:
 This project was developed as a part of the final project for the Data Science Bootcamp at WBS Coding School. The goal of this project is to create an interactive Tableau dashboard which could assist users in  making informed decisions about the most suitable travel destinations or potential relocation spots in Europe based on their preferences. 
