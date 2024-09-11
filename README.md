@@ -57,7 +57,7 @@ The project includes two interactive Tableau dashboards in one story:
 ## Deliverables:
 
 1. [Tableau Dashboard](https://public.tableau.com/app/profile/julia.keller/viz/Next_Stop_Europe/Story1)
-2. PowerPoint Presentation (Attached [here])
+2. PowerPoint Presentation (Attached [here](https://github.com/Julia-Keller/Tableau-Dashboard-Travelling-Relocation-/blob/main/Travell%26Relocate_Final_Presentation.pdf))
 3. Work notebooks in Jupyter Lab. (Files attached here)
 
 ## Future scope:
