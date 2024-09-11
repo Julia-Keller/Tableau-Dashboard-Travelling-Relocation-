@@ -21,18 +21,18 @@ The project includes two interactive Tableau dashboards in one story:
 
 ## Steps of the Project:
 
-1. Data Collection:
+### 1. Data Collection:
    - decide which cities will be taken for the analysis;
    - decide which parameters are important for either travellers or relocants;
    - search for open APIs and websites where the data can be taken;
    - explore Kaggle website for relevant Datasets.
-3. Data Cleaning & Processing:
+### 3. Data Cleaning & Processing:
    - prepare raw data for analysis by improving its quality and ensuring it is suitable for the intended purpose;
    - identify and remove duplicate entries, detect null values in the dataset, fill missing data or remove irrelevant data from the datasets;
    - convert data types to ensure that variables have the correct format;
    - correct inconsistencies, remove irrelevant characters and symbols;
    - etc.
-5. Data Visualization:
+### 5. Data Visualization:
    - create a sketch of a future dashboard;
    - combine multiple data sources within Tableau to create unified visualizations;
    - reshape the data and use calculated fields to create new fields, metrics and custom aggregations;
