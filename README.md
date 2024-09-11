@@ -17,7 +17,7 @@ The project includes two interactive Tableau dashboards in one story:
    
 2. Relocants Dashboard 🏡: tailored for those considering relocation within Europe. The dashboard provides key information on various parameters such as utilities and groceries prices, prices to rent/buy an apartment, cost of living indices and so on which could help users choose the ideal location to live and work.
 
-Snapshot
+[Relocants Dashboard Snapshot](https://github.com/user-attachments/assets/f9d11236-8980-42ed-831b-99610441c702)
 
 ## Skills & Tools:
 
